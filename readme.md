@@ -1,7 +1,5 @@
-
-<div align="center">
 ![Logo](https://pages.greatpages.com.br/lp.b7web.com.br/1739102645/imagens/desktop/413386_1_170335497971042967.png)
-</div>
+
 
 
 # Estudo B7Web
